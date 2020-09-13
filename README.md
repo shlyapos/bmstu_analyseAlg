@@ -1,0 +1,2 @@
+# bmstu_analyseAlg
+BMSTU
