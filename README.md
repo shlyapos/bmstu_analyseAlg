@@ -1,4 +1,5 @@
-# Analyse-Algorithms (2020)
+# Analysis-Of-Algorithms (2020)
+
 ```
 3rd course, IU7
 Bauman Moscow State Technical University
