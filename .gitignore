@@ -1,3 +1,15 @@
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+###C++###
+*.exe
+*.o
+
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
