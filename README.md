@@ -13,3 +13,11 @@ Bauman Moscow State Technical University
 >
 > [Реализация](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_01/program.py)
 ___
+
+> :white_check_mark: **Лр #2 Алгоритмы усножения матриц. Алгоритм Винограда**
+> 
+> Реализовать классический алгоритм умножения матриц, алгоритм Винограда и его оптимизированный вариант. Составить отчёт, подсчитать трудоёмкость каждого алгоритма и провести анализ процессорного времени выполнения на разных размерах матриц (как для чётного размера, так и для нечётного).
+>
+> [Отчёт](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_02/report.pdf)
+>
+> [Реализация](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_02/program.py)
