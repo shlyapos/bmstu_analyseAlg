@@ -2,7 +2,7 @@
 
 arrayType createArray(int sizeArray)
 {
-    return new int [sizeArray];
+    return new int[sizeArray];
 }
 
 void inputArray(arrayType& array, int sizeArray)

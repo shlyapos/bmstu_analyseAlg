@@ -23,6 +23,7 @@ void beginTimeTest()
 {
     int countSizes = 5;
     int sizes[] = {100, 200, 300, 1000, 10000};
+    int count[] = {100, 100, 100, 10, 1};
 
     void (*algorithms[])(arrayType&, int) = {sortBubble, sortInsertion, sortShaker}; 
 
@@ -36,9 +37,16 @@ void beginTimeTest()
         {
             arrayType testArray = generateArray(sizes[i]);
             
-            StartCounter();
-            sort(testArray, sizes[i]);
-            double finishTime = GetCounter();
+            double finishTime = 0;
+
+            for (int j = 0; j < count[i]; j++)
+            {
+                StartCounter();
+                sort(testArray, sizes[i]);
+                finishTime += GetCounter();
+            }
+
+            finishTime /= count[i];
             
             std::cout << "\nFor " << algorithmNames[k] << "\t-> Size - " << sizes[i] << "\tTime - " << finishTime;
 
