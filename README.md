@@ -21,3 +21,12 @@ ___
 > [Отчёт](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_02/report.pdf)
 >
 > [Реализация](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_02/program.py)
+___
+
+> :white_check_mark: **Лр #3 Алгоритмы сортировки массивов**
+> 
+> Реализовать алгоритмы сортировки массивов (в моём случае **пузырёк**, **вставками** и **шейкерная**). Составить отчёт, подсчитать трудоёмкость каждого алгоритма и провести анализ процессорного времени выполнения на разных размерах массивов.
+>
+> [Отчёт](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_03/report.pdf)
+>
+> [Реализация](https://github.com/shlyapik228/bmstu_analyseAlg/blob/master/lab_03/code)
